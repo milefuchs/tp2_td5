@@ -145,7 +145,7 @@ def circulacion(path):
     # Mostrar el gráfico
     plt.show()
 
-circulacion(r"instances\prueba.json")
+circulacion(r"instances\escenarioadicional.json")
 
 
 
